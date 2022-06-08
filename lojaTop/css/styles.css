@@ -1,0 +1,17 @@
+body {
+    margin: 0%;
+}
+
+header {
+    margin: 50px;
+}
+h1{
+    color: red;
+}
+p {
+    color: green;
+}
+
+.categories{
+    color: aqua;
+}

@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+}
+
+.bloco {
+    width: 280px;
+    height: 200px;
+    margin: 20px;
+}
+.container-dos-blocos{
+    display: flex;
+}
+
+
