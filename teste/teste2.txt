@@ -1242,3 +1242,5 @@
 [50143.646925] ath: regdomain 0x804c dynamically updated by country element
 [50143.718864] wlp3s0: Limiting TX power to 24 (24 - 0) dBm as advertised by 74:3a:ef:ac:10:8f
 [50143.719064] IPv6: ADDRCONF(NETDEV_CHANGE): wlp3s0: link becomes ready
+teste2.txt
+teste.txt
